@@ -8,12 +8,13 @@
 ---
 
 ### 👩‍💻 About Me
--👯 Looking to collaborate on **Frontend Web Development Projects**
--🎨 Love turning ideas into responsive and interactive user interfaces
--🌱 Actively improving my HTML, CSS, and JavaScript skills
--👨‍💻 Check out my projects:  
-  👉 <a href="https://pavithra0508.github.io/PORTFOLIO/" target="_blank">My Portfolio</a>
--📫 Reach me at: **pavithrac.offl@gmail.com**
+
+👯 Looking to collaborate on **Frontend Web Development Projects**  
+🎨 Love turning ideas into responsive and interactive user interfaces  
+🌱 Actively improving my **HTML, CSS, and JavaScript** skills  
+👨‍💻 Check out my projects: 👉 <a href="https://pavithra0508.github.io/PORTFOLIO/" target="_blank">My Portfolio</a>  
+📫 Reach me at: **pavithrac.offl@gmail.com**
+
 
 ---
 
